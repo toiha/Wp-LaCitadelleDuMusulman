@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hisnulmuslim type="metadata" version="1.0" copyright="(C) 2015 toiha.fr" license="cc-by nc">
+	<chapitres>
+		<chapitre index="1" parties="1" start="0" tname="Le mérite de l'invocation"/>
+		<chapitre index="2" parties="4" start="1" tname="Lorsqu'on se réveille"/>
+		<chapitre index="3" parties="1" start="5" tname="Lorsqu'on s'habille"/>
+		<chapitre index="4" parties="1" start="6" tname="Lorsque l'on met un vêtement neuf"/>
+		<chapitre index="5" parties="2" start="7" tname="Ce que l'on dit à celui qui met un vêtement neuf"/>
+		<chapitre index="6" parties="1" start="9" tname="Avant de se déshabiller"/>
+		<chapitre index="7" parties="1" start="10" tname="En entrant aux toilettes"/>
+		<chapitre index="8" parties="1" start="11" tname="En sortant des toilettes"/>
+		<chapitre index="9" parties="1" start="12" tname="Ce que l'on dit avant les ablutions"/>
+		<chapitre index="10" parties="3" start="13" tname="Ce que l'on dit après les ablutions"/>
+		<chapitre index="11" parties="3" start="16" tname="En entrant/sortant de la maison"/>
+		<chapitre index="12" parties="1" start="19" tname="En allant à la mosquée"/>
+	</chapitres>
+</hisnulmuslim>
